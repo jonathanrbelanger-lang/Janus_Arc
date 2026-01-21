@@ -1,0 +1,20 @@
+# Python internals
+__pycache__/
+*.py[cod]
+
+# Data and Checkpoints (Created by your scripts)
+checkpoints/
+data/
+hero_analysis/
+sae_models/
+*.pt
+*.bin
+*.parquet
+*.csv
+
+# Mac OS junk
+.DS_Store
+
+# Virtual environments
+venv/
+.env
